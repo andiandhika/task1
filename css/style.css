@@ -59,18 +59,18 @@ margin-left: 300px;
    transform: translate(0,0);
 } 
 
-.portfolio{
+.isi{
 background-color: #eee;
 min-height: auto;
 }
 
-.portfolio .thumbnail {
+.isi .thumbnail {
    opacity: 0;
    transform: translate(0, -40px);
    transition: .5s;
 }
 
-.portfolio .thumbnail.muncul{
+.isi .thumbnail.muncul{
    opacity: 1;      
    transform: translate(0,0);
 
